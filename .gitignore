@@ -1,0 +1,6 @@
+dataset/
+encodings.pkl
+__pycache__/
+venv/
+.venv/
+*.pyc
